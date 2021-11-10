@@ -1,4 +1,4 @@
-package com.company;
+package array;
 
 import java.util.Scanner;
 
